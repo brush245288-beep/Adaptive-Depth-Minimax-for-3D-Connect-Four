@@ -58,7 +58,7 @@ activities.
 They are supplementary to the experimental Python implementations used to
 generate the dissertation results.
 
-The interactive demonstrations can also be tried directly online without downloading the HTML files: [https://connect43d.brush245288.workers.dev/].
+The interactive demonstrations can also be tried directly online without downloading the HTML files: [Pure Minimax: https://connect43d.brush245288.workers.dev/ SMC version:https://connect4-depth-overclock.brush245288.workers.dev/].
 
 ## Agent Implementations
 
